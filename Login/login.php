@@ -12,17 +12,30 @@
     <!-- Css Style -->    
     <link rel="stylesheet" href="style_login.css">
 </head>
+
 <body>
 	<header class="container">
+		<div class="container">
+           <nav class="menuPrincipal navbar fixed-top navbar-expand-md">
+                <a href="../index.php" class="tituloPrincipal navbar-brand mt-1"><img src="../img/logo_2.png" alt="Logo" class="logo"></a>
+                <div id="menu" class="collapse navbar-collapse">
+                    <ul class="navbar-nav mr-auto">
+
+                        <li class="dropdown active">
+                            <a href="../index.php" class="home btn btn-outline">Home</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div> <br><br>
+
+
 		<div class="row">
 			<div class="col-sm-12 my-4">
-				<a href="login.php">
-					<img src="../img/logo.png" alt="Logo" class="logo">
-				</a>
-				<h1 class="display-3 text-uppercase font-weight-bold text-right mt-2">Inicia Sesión</h1>
+				<h1 class="display-3 text-uppercase font-weight-bold text-right mt-5">Inicia Sesión</h1>
 			</div>
 			<div class="col-sm-6">
-				<img src="../img/prueba.jpg" alt="messi" class="messi">
+				<img src="../img/messi_login.jpg" alt="messi" class="messi">
 			</div>
 			<div class="col-sm-6 text-center">
 				<p class="text-description">Ingresa tu usuario y contraseña</p>
@@ -38,8 +51,12 @@
 				</form>
 
 				<ul class="list-unstyled list-inline my-4">	<!-- Quita el esitlo que tiene por defecto la etiqueta ul -->
+					<li class="list-inline-item"> <a href="https://www.facebook.com/Pollas3P/"> <!-- El href se puede llenar con la página que se desee -->
+							<i class="fcbk fab fa-facebook-f"></i>	<!-- Etiqueta i de icon -->
+						</a> 
+					</li>
 					<li class="list-inline-item"> <a href=""> <!-- El href se puede llenar con la página que se desee -->
-							<i class="fab fa-facebook-f"></i>	<!-- Etiqueta i de icon -->
+							<i class="wht fab fa-whatsapp"></i>	<!-- Etiqueta i de icon -->
 						</a> 
 					</li>
 				</ul>
