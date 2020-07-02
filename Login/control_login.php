@@ -1,5 +1,5 @@
 <?php 
-/*
+
 	print($_POST['usuario'].":<br>");
 	
 	$Usuarios = array(
@@ -9,7 +9,7 @@
 
 	$i = 0;
 	while ($i < sizeof($Usuarios)) {
-		print(" *".$Usuarios[$i]['user']." - ".$Usuarios[$i]['pass']."<br>");
+		#print(" *".$Usuarios[$i]['user']." - ".$Usuarios[$i]['pass']."<br>");
 		if($Usuarios[$i]['user'] == $_POST['usuario'] && $Usuarios[$i]['pass'] == $_POST['contrasena']){
 			session_start();
 			$_SESSION['user'] = $_POST['usuario'];
@@ -24,6 +24,6 @@
 		header("Location: ../index.php");	
 	}else{
 		print("No existe");
-		header("Location: index.php?error=true");
-	}*/
+		header("Location: login.php?error=true");
+	}
 ?>

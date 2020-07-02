@@ -1,6 +1,6 @@
 .menuPrincipal{
 	height: 90px;
-	background:  #2e4053;
+	background: #2e4053;
 }
 
 body, html{
@@ -58,4 +58,17 @@ a .fab{
 .home{
 	color:  #3498db;
 	font-size: 18px;
+}
+
+.ingreso_datos:hover{
+	background: #2e4053 !important;
+}
+
+.titulo_1{
+	color:  #f7dc6f;
+}
+
+.p1{
+	 color: #2e4053;
+
 }

@@ -1,7 +1,7 @@
-<?php /*session_start();
-	if(!isset($_SESSION['auth']) || $_SESSION['auth'] == false){
-		//header("Location: index.php");
-	}*/
+<?php session_start();
+    if(!isset($_SESSION['auth']) || $_SESSION['auth'] == false){
+        //header("Location: index.php");
+    }
 ?>
 <!DOCTYPE html>
 <html>
@@ -28,5 +28,8 @@
 	<br>
 
 	
+    <p> hola amantes del futbol </p>
+    <p>Bienvenidos</p>
+
 </body>
 </html>

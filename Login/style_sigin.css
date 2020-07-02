@@ -59,3 +59,31 @@ a .fab{
 	color:  #3498db;
 	font-size: 18px;
 }
+
+.btn-enviar{
+	background: #2e4053;
+	color: white;
+	width: 30%;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.btn-enviar:hover{
+	background: #2e4053 !important;
+}
+
+.btn-enviar:active{
+	transform: scale(1.08)
+}
+
+.form-control:hover{
+	background: #2e4053 !important;
+}
+
+.titulo_1{
+	color:  #f7dc6f;
+}
+
+.text-description{
+	color: #2e4053;
+}
