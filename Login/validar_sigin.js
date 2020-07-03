@@ -51,5 +51,9 @@ function validar(){
 		alert("La Confirmación de la Contraseña es muy larga. Solo se aceptan 20 caracteres");
 		return false;
 	}
+	else if(contrasena !== confirmar_contrasena){
+		alert("La confirmación de la contraseña no coincide con la contraseña escrita");
+		return false;
+	}
 
 }

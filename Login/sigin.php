@@ -57,7 +57,7 @@
 					<input type="password" id="contrasena" class="form-control rounded-0 my-4 text-center" name="contrasena" placeholder="Escribe tu Contraseña" required>
 					<p class="text-description">Confirmar Contraseña</p>
 					<input type="password" id="confirmar_contrasena" class="form-control rounded-0 my-4 text-center" name="confirmar_contrasena" placeholder="Confirma tu contraseña" required><br>
-					<input type="submit" value="Registrar" class="btn-enviar">
+					<input type="submit" value="Registrar" class="btn-enviar" name="alta">
 					
 				</form>
 
