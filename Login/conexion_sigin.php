@@ -1,5 +1,5 @@
 <?php  
-/*
+
 $conexion = mysqli_connect("localhost", "root", "", "Proyecto_Web");
 if(!$conexion){
 	echo "Error al conectar a la base de datos";
@@ -8,8 +8,9 @@ if(!$conexion){
 else{
 	echo "Conectado a la base de datos";
 	print("<br>");
-}*/
+}
 
+/*
 require 'config_sigin.php'; 
 class Conexion extends Mysqli
 {
@@ -21,6 +22,6 @@ class Conexion extends Mysqli
 		//var_dump($this->get_charset());
 	}
 }
-
+*/
 
 ?>

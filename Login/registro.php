@@ -1,6 +1,6 @@
 <?php 
-/*
-include 'conexion_sigin.php';
+
+require 'conexion_sigin.php';
 //Recibir los datos y almacenarlos en variables
 $nombre = $_POST["nombre"];
 $apellido = $_POST["apellido"];
@@ -22,10 +22,10 @@ if(!$resultado){
 }
 //Cerrar Conexion
 mysqli_close($conexion);
-*/
 
 
 
+/*
 !isset($_POST) ? die('Acceso denegado') : '';
 
 require 'conexion_sigin.php';
@@ -48,5 +48,6 @@ if (isset($_POST['alta'])) {
 
 	$db->affected_rows <0 ? print 'Hubo un problema' : print "Se insertaron $db->affected_rows registros"; //muestra las filas que fueron modificadas
 }
-
+*/
+ 
  ?>

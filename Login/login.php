@@ -46,7 +46,7 @@
 						print("<h4>Error: Nombre de usuario o contraseña invalidos</h4>");
 						} 
 					?>
-					<input type="text" class="ingreso_datos form-control rounded-0 my-4 text-cente" name="usuario" placeholder="Escribe tu Email o Usuario">
+					<input type="text" class="ingreso_datos form-control rounded-0 my-4 text-cente" name="usuario" placeholder="Escribe tu Usuario">
 
 					<input type="password" class="ingreso_datos form-control rounded-0 my-4 text-center" name="contrasena" placeholder="Escribe tu Contraseña">
 					
