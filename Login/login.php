@@ -41,17 +41,17 @@
 				<p class="p1 text-description">Ingresa tu usuario y contraseña</p>
 
 				<form action="control_login.php" method="POST">
-					<?php 
-						if(isset($_GET['error']) && $_GET['error']==true){
+					 
+						<!-- if(isset($_GET['error']) && $_GET['error']==true){
 						print("<h4>Error: Nombre de usuario o contraseña invalidos</h4>");
-						} 
-					?>
+						}  -->
+					
 					<input type="text" class="ingreso_datos form-control rounded-0 my-4 text-cente" name="usuario" placeholder="Escribe tu Usuario">
 
 					<input type="password" class="ingreso_datos form-control rounded-0 my-4 text-center" name="contrasena" placeholder="Escribe tu Contraseña">
 					
 					<button class="login btn btn-light rounded-0">
-						<a> LOGIN </a>
+						<a href="../index.php"> LOGIN </a>
 					</button><br><br>
 
 				</form>

@@ -1,4 +1,6 @@
-<?php session_start();
+<?php 
+    //require '../Login/registro.php';
+    session_start();
     if(!isset($_SESSION['auth']) || $_SESSION['auth'] == false){
         //header("Location: index.php");
     }
@@ -24,12 +26,15 @@
             </nav>
         </div> <br><br>
 
-	<label>Bienvenido <?php print($_SESSION['user']); ?></label>
+	<label>Bienvenido
+        <?php 
+        //require '../Login/registro.php';
+        print($_SESSION['user']); 
+        ?>
+                            
+    </label>
 	<br>
-
-	
     <p> hola amantes del futbol </p>
-    <p>Bienvenidos</p>
 
 </body>
 </html>
