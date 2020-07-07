@@ -82,8 +82,14 @@ a .fab{
 
 .titulo_1{
 	color:  #f7dc6f;
+	margin-left: 610px;
 }
 
 .text-description{
 	color: #2e4053;
+}
+
+.oIniciaSesion{
+	margin-left: 770px;
+	color: #2e86c1;
 }

@@ -33,7 +33,8 @@
 
 		<div class="row">
 			<div class="col-sm-12 my-4">
-				<h1 class="titulo_1 display-3 text-uppercase font-weight-bold text-right mt-5">Registrate</h1>
+				<h1 class="titulo_1 display-3 text-uppercase font-weight-bold mt-5">Registrate</h1>
+				<h3><span class="oIniciaSesion">ó <a href="login.php">Inicia Sesión</a></span></h3>
 			</div>
 			<div class="col-sm-6">
 				<img src="../img/messi_login.jpg" alt="messi" class="messi">
