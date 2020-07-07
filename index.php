@@ -27,10 +27,6 @@
         </div> <br><br>
 
 	<label>Bienvenido
-        <?php 
-        //require '../Login/registro.php';
-        print($_SESSION['user']); 
-        ?>
                             
     </label>
 	<br>
