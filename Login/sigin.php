@@ -18,7 +18,7 @@
 	<header class="container">
 		<div class="container">
            <nav class="menuPrincipal navbar fixed-top navbar-expand-md">
-                <a href="../index.php" class="tituloPrincipal navbar-brand mt-1"><img src="../img/logo_2.png" alt="Logo" class="logo"></a>
+                <a href="../home_sigin.php" class="tituloPrincipal navbar-brand mt-1"><img src="../img/logo_2.png" alt="Logo" class="logo"></a>
                 <div id="menu" class="collapse navbar-collapse">
                     <ul class="navbar-nav mr-auto">
 
@@ -53,9 +53,9 @@
 					<p class="text-description">Email</p>
 					<input type="email" id="correo" class="form-control rounded-0 my-4 text-center" name="correo" placeholder="Escribe tu Email" required>
 					<p class="text-description">Usuario</p>
-					<input type="text" id="usuario" class="form-control rounded-0 my-4 text-center" name="usuario" placeholder="Escribe tu Usuario" required>
+					<input type="text" id="usuario" class="form-control rounded-0 my-4 text-center" name="user" placeholder="Escribe tu Usuario" required>
 					<p class="text-description">Contraseña</p>
-					<input type="password" id="contrasena" class="form-control rounded-0 my-4 text-center" name="contrasena" placeholder="Escribe tu Contraseña" required>
+					<input type="password" id="contrasena" class="form-control rounded-0 my-4 text-center" name="clave" placeholder="Escribe tu Contraseña" required>
 					<p class="text-description">Confirmar Contraseña</p>
 					<input type="password" id="confirmar_contrasena" class="form-control rounded-0 my-4 text-center" name="confirmar_contrasena" placeholder="Confirma tu contraseña" required><br>
 					<input type="submit" value="Registrar" class="btn-enviar" name="alta">

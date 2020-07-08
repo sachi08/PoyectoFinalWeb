@@ -17,7 +17,7 @@
 	echo $nickName;
 	echo $password;*/
 
-	//require 'conexion_sigin.php';
+	require 'conexion_sigin.php';
 	print($_POST['usuario'].":<br>");
 
 	$Usuarios = array(

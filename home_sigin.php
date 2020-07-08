@@ -1,10 +1,3 @@
-<?php 
-    //require '../Login/registro.php';
-    session_start();
-    if(!isset($_SESSION['auth']) || $_SESSION['auth'] == false){
-        //header("Location: index.php");
-    }
-?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,11 +19,8 @@
             </nav>
         </div> <br><br>
 
-	<label>Bienvenido
-                            
-    </label>
 	<br>
-    <p> hola amantes del futbol </p>
+    <p> Bienvenido amante del futbol </p>
 
 </body>
 </html>

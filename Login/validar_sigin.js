@@ -5,8 +5,8 @@ function validar(){
 	apellido = document.getElementById("apellido").value;
 	celular = document.getElementById("celular").value;
 	correo = document.getElementById("correo").value;
-	usuario = document.getElementById("usuario").value;
-	contrasena = document.getElementById("contrasena").value;
+	usuario = document.getElementById("user").value;
+	contrasena = document.getElementById("clave").value;
 	confirmar_contrasena = document.getElementById("confirmar_contrasena").value;
 
 	expresion = /\w+@\w+\.+[a-z]/;

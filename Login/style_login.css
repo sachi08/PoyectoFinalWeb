@@ -42,7 +42,9 @@ a .fab{
 }
 
 .messi{
-	height: 250px;
+	height: 550px;
+	margin-left:-110px;
+	margin-top: -130px;
 }
 
 .wht, .fcbk{
@@ -72,3 +74,21 @@ a .fab{
 	 color: #2e4053;
 
 }
+
+.btn-ingresar{
+	background: #2e4053;
+	color: white;
+	width: 30%;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.btn-ingresar:hover{
+	background: #2e4053 !important;
+}
+
+.btn-ingresar:active{
+	transform: scale(1.08)
+}
+
+

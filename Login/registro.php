@@ -6,12 +6,11 @@ $nombre = $_POST["nombre"];
 $apellido = $_POST["apellido"];
 $celular = $_POST["celular"];
 $correo = $_POST["correo"];
-$usuario = $_POST["usuario"];
-$contrasena = $_POST["contrasena"];
-$confirmar_contrasena = $_POST["confirmar_contrasena"];
+$usuario = $_POST["user"];
+$contrasena = password_hash($_POST["clave"], PASSWORD_DEFAULT);
 
 //Consulta para insertar 
-$insertar = "INSERT INTO `usuario`( `nombre`, `apellido`, `celular`, `correo`, `user`, `clave`, `confirmarc`) VALUES ('$nombre', '$apellido', '$celular', '$correo', '$usuario', '$contrasena', '$confirmar_contrasena')"; 
+$insertar = "INSERT INTO `usuario`( `nombre`, `apellido`, `celular`, `correo`, `user`, `clave`) VALUES ('$nombre', '$apellido', '$celular', '$correo', '$usuario', '$contrasena')"; 
 
 //se quiere verificar que no se repita un nombre de ususario
 $verificar_usuario = mysqli_query($conexion, "SELECT * FROM usuario WHERE user ='$usuario'");
@@ -40,7 +39,7 @@ if(!$resultado){
 	echo '<script>
 			alert("Se ha registrado exitosamente");
 		 </script>';
-	header("Location: ../index.php");	 
+	header("Location: ../home_sigin.php");	 
 }
 //Cerrar Conexion
 mysqli_close($conexion);

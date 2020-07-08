@@ -1,3 +1,29 @@
+<?php
+
+  session_start();
+
+  if (isset($_SESSION['user_id'])) {
+    header('Location: home_login.php');
+  }
+  require 'database.php';
+  echo "usuario:".$_POST['user'];
+  if (!empty($_POST['user']) && !empty($_POST['clave'])) {
+    $conn = conexionSQL();
+    $q = "SELECT id, user, clave FROM usuario WHERE user = '".$_POST['user']."'";
+    $var = $conn->query($q);
+    $results = $var->fetch_assoc();
+    $message = '';
+    //$p = password_hash($_POST['clave'],PASSWORD_DEFAULT);
+    if (count($results) > 0 && password_verify($_POST['clave'], $results['clave'])) {
+      $_SESSION['user_id'] = $results['id'];
+      header("Location: home_login.php");
+    } else {
+      $message = 'Lo sentimos, su usuario y contraseña no coincide!';
+    }
+  }
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,7 +48,7 @@
                     <ul class="navbar-nav mr-auto">
 
                         <li class="dropdown active">
-                            <a href="../index.php" class="home btn btn-outline">Home</a>
+                            <a href="home_login.php" class="home btn btn-outline">Home</a>
                         </li>
                     </ul>
                 </div>
@@ -35,25 +61,26 @@
 				<h1 class="titulo_1 display-3 text-uppercase font-weight-bold text-right mt-5">Inicia Sesión</h1>
 			</div>
 			<div class="col-sm-6">
-				<img src="../img/messi_login.jpg" alt="messi" class="messi">
+				<img src="../img/kisspng-argentina-national-football-team-fc-barcelona-foot-lionel-messi-5ac0332772f7c4.6683720815225454474709.png" alt="messi" class="messi">
 			</div>
 			<div class="col-sm-6 text-center">
 				<p class="p1 text-description">Ingresa tu usuario y contraseña</p>
+				
+				 <?php if(!empty($message)): ?>
+      				<p> <?= $message ?></p>
+    			<?php endif; ?>
 
-				<form action="control_login.php" method="POST">
+				<form action="login.php" method="POST">
 					 
 						<!-- if(isset($_GET['error']) && $_GET['error']==true){
 						print("<h4>Error: Nombre de usuario o contraseña invalidos</h4>");
 						}  -->
 					
-					<input type="text" class="ingreso_datos form-control rounded-0 my-4 text-cente" name="usuario" placeholder="Escribe tu Usuario">
+					<input type="text" class="ingreso_datos form-control rounded-0 my-4 text-cente" name="user" placeholder="Escribe tu Usuario">
 
-					<input type="password" class="ingreso_datos form-control rounded-0 my-4 text-center" name="contrasena" placeholder="Escribe tu Contraseña">
+					<input type="password" class="ingreso_datos form-control rounded-0 my-4 text-center" name="clave" placeholder="Escribe tu Contraseña">
 					
-					<button class="login btn btn-light rounded-0">
-						<a href="../index.php"> LOGIN </a>
-					</button><br><br>
-
+					 <input type="submit" value="Ingresar" class="btn-ingresar"><br><br>
 				</form>
 
 				<button class="btn btn-light rounded-0">
