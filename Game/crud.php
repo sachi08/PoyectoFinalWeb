@@ -46,11 +46,15 @@
         $SEMI2= $_POST['C2-C4-2'].$_POST['C2-C4-2'];
         $TERCER= $_POST['tercer-1'].$_POST['tercer-2'];
         $FINAL= $_POST['final-1'].$_POST['final-2'];
+        $CUARTOS= $_POST['equipo1'].','.$_POST['equipo2'].','.$_POST['equipo3'].','.$_POST['equipo4'].','.$_POST['equipo5'].','.$_POST['equipo6'].','.$_POST['equipo7'].','. $_POST['equipo8'];
+        $SEMIS= $_POST['C1'].','.$_POST['C2'].','.$_POST['C3'].','.$_POST['C4'];
+        $TERCEROS= $_POST['S3'].','.$_POST['S4'];
+        $FINALISTAS= $_POST['S1'].','.$_POST['S2'];
         
         #de esta forma lee la base de datos los datos
-        $query = "INSERT INTO `resultados`(`jugador_id`, `ARG-CHI`, `AUS-URU`, `PAR-BOL`, `ARG-URU`, `CHI-BOL`, `PAR-AUS`, `ARG-PAR`, `URU-CHI`, `AUS-BOL`, `CHI-PAR`, `AUS-ARG`, `BOL-URU`, `CHI-AUS`, `BOL-ARG`, `URU-PAR`, `COL-ECU`, `BRA-VEN`, `PER-QAT`, `COL-VEN`, `ECU-QAT`, `PER-BRA`, `COL-PER`, `VEN-ECU`, `BRA-QAT`, `BRA-COL`, `ECU-PER`, `QAT-VEN`, `QAT-COL`, `ECU-BRA`, `VEN-PER`, `B1-A4`, `B2-A3`, `A1-B4`, `A2-B3`, `SEMI1`, `SEMI2`, `TERCER`, `FINAL`) VALUES ('$jugador_ID', '$ARG_CHI', '$AUS_URU', '$PAR_BOL', '$ARG_URU', '$CHI_BOL', '$PAR_AUS', '$ARG_PAR', '$URU_CHI', '$AUS_BOL', '$CHI_PAR', '$AUS_ARG', '$BOL_URU', '$CHI_AUS', '$BOL_ARG', '$URU_PAR', '$COL_ECU', '$BRA_VEN', '$PER_QAT', '$COL_VEN', '$ECU_QAT', '$PER_BRA', '$COL_PER', '$VEN_ECU', '$BRA_QAT', '$BRA_COL', '$ECU_PER', '$QAT_VEN', '$QAT_COL', '$ECU_BRA', '$VEN_PER', '$B1_A4', '$B2_A3', '$A1_B4', '$A2_B3', '$SEMI1', '$SEMI2', '$TERCER', '$FINAL')";
-        echo "<br><br><br>";
+        $query = "INSERT INTO `resultados`(`jugador_id`, `ARG-CHI`, `AUS-URU`, `PAR-BOL`, `ARG-URU`, `CHI-BOL`, `PAR-AUS`, `ARG-PAR`, `URU-CHI`, `AUS-BOL`, `CHI-PAR`, `AUS-ARG`, `BOL-URU`, `CHI-AUS`, `BOL-ARG`, `URU-PAR`, `COL-ECU`, `BRA-VEN`, `PER-QAT`, `COL-VEN`, `ECU-QAT`, `PER-BRA`, `COL-PER`, `VEN-ECU`, `BRA-QAT`, `BRA-COL`, `ECU-PER`, `QAT-VEN`, `QAT-COL`, `ECU-BRA`, `VEN-PER`, `B1-A4`, `B2-A3`, `A1-B4`, `A2-B3`, `SEMI1`, `SEMI2`, `TERCER`, `FINAL`, `cuartos`, `semis`, `terceros`, `finalistas`) VALUES ('$jugador_ID', '$ARG_CHI', '$AUS_URU', '$PAR_BOL', '$ARG_URU', '$CHI_BOL', '$PAR_AUS', '$ARG_PAR', '$URU_CHI', '$AUS_BOL', '$CHI_PAR', '$AUS_ARG', '$BOL_URU', '$CHI_AUS', '$BOL_ARG', '$URU_PAR', '$COL_ECU', '$BRA_VEN', '$PER_QAT', '$COL_VEN', '$ECU_QAT', '$PER_BRA', '$COL_PER', '$VEN_ECU', '$BRA_QAT', '$BRA_COL', '$ECU_PER', '$QAT_VEN', '$QAT_COL', '$ECU_BRA', '$VEN_PER', '$B1_A4', '$B2_A3', '$A1_B4', '$A2_B3', '$SEMI1', '$SEMI2', '$TERCER', '$FINAL', '$CUARTOS', '$SEMIS', '$TERCEROS', '$FINALISTAS')";
         echo $query;
+        echo '<br><br><br>';    
         $db -> query($query); #funcion que guarda en la base de datos
     
     }

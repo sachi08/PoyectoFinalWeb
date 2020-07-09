@@ -36,17 +36,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Argentina</h6>
                 <select class="form-control" name="ARG-CHI-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -55,17 +55,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Chile</h6>
                 <select class="form-control" name="ARG-CHI-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -81,17 +81,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Australia</h6>
                 <select class="form-control" name="AUS-URU-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -100,17 +100,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Uruguay</h6>
                 <select class="form-control" name="AUS-URU-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -126,17 +126,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Paraguay</h6>
                 <select class="form-control" name="PAR-BOL-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -145,17 +145,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Bolivia</h6>
                 <select class="form-control" name="PAR-BOL-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -171,17 +171,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Argentina</h6>
                 <select class="form-control" name="ARG-URU-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -190,17 +190,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Uruguay</h6>
                 <select class="form-control" name="ARG-URU-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -216,17 +216,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Chile</h6>
                 <select class="form-control" name="CHI-BOL-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -235,17 +235,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Bolivia</h6>
                 <select class="form-control" name="CHI-BOL-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -261,17 +261,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Paraguay</h6>
                 <select class="form-control" name="PAR-AUS-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -280,17 +280,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Australia</h6>
                 <select class="form-control" name="PAR-AUS-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -306,17 +306,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Argentina</h6>
                 <select class="form-control" name="ARG-PAR-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -325,17 +325,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Paraguay</h6>
                 <select class="form-control" name="ARG-PAR-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -351,17 +351,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Uruguay</h6>
                 <select class="form-control" name="URU-CHI-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -370,17 +370,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Chile</h6>
                 <select class="form-control" name="URU-CHI-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -396,17 +396,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Australia</h6>
                 <select class="form-control" name="AUS-BOL-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -415,17 +415,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Bolivia</h6>
                 <select class="form-control" name="AUS-BOL-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -441,17 +441,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Chile</h6>
                 <select class="form-control" name="CHI-PAR-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -460,17 +460,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Paraguay</h6>
                 <select class="form-control" name="CHI-PAR-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -486,17 +486,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Australia</h6>
                 <select class="form-control" name="AUS-ARG-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -505,17 +505,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Argentina</h6>
                 <select class="form-control" name="AUS-ARG-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -531,17 +531,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Bolivia</h6>
                 <select class="form-control" name="BOL-URU-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -550,17 +550,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Uruguay</h6>
                 <select class="form-control" name="BOL-URU-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -576,17 +576,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Chile</h6>
                 <select class="form-control" name="CHI-AUS-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -595,17 +595,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Australia</h6>
                 <select class="form-control" name="CHI-AUS-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -621,17 +621,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Bolivia</h6>
                 <select class="form-control" name="BOL-ARG-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -640,17 +640,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Argentina</h6>
                 <select class="form-control" name="BOL-ARG-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -666,17 +666,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Uruguay</h6>
                 <select class="form-control" name="URU-PAR-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -685,17 +685,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Paraguay</h6>
                 <select class="form-control" name="URU-PAR-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -719,17 +719,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>COLOMBIA</h6>
                 <select class="form-control" name="COL-ECU-1" style="width:60px">
-                    <option valiu="0">0</option>
-                    <option valiu="1">1</option>
-                    <option valiu="2">2</option>	
-                    <option valiu="3">3</option>	
-                    <option valiu="4">4</option>
-                    <option valiu="5">5</option>	
-                    <option valiu="6">6</option>
-                    <option valiu="7">7</option>	
-                    <option valiu="8">8</option>	
-                    <option valiu="9">9</option>
-                    <option valiu="10">10</option>				
+                    <option value="0">0</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>	
+                    <option value="3">3</option>	
+                    <option value="4">4</option>
+                    <option value="5">5</option>	
+                    <option value="6">6</option>
+                    <option value="7">7</option>	
+                    <option value="8">8</option>	
+                    <option value="9">9</option>
+                    <option value="10">10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -738,17 +738,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>ECUADOR</h6>
                 <select class="form-control" name="COL-ECU-2" style="width:60px">
-                    <option valiu="0">0</option>
-                    <option valiu="1">1</option>
-                    <option valiu="2">2</option>	
-                    <option valiu="3">3</option>	
-                    <option valiu="4">4</option>
-                    <option valiu="5">5</option>	
-                    <option valiu="6">6</option>
-                    <option valiu="7">7</option>	
-                    <option valiu="8">8</option>	
-                    <option valiu="9">9</option>
-                    <option valiu="10">10</option>				
+                    <option value="0">0</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>	
+                    <option value="3">3</option>	
+                    <option value="4">4</option>
+                    <option value="5">5</option>	
+                    <option value="6">6</option>
+                    <option value="7">7</option>	
+                    <option value="8">8</option>	
+                    <option value="9">9</option>
+                    <option value="10">10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -764,17 +764,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>BRASIL</h6>
                 <select class="form-control" name="BRA-VEN-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -783,17 +783,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>VENEZUELA</h6>
                 <select class="form-control" name="BRA-VEN-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -809,17 +809,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Perú</h6>
                 <select class="form-control" name="PER-QAT-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -828,17 +828,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Qatar</h6>
                 <select class="form-control" name="PER-QAT-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -854,17 +854,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Colombia</h6>
                 <select class="form-control" name="COL-VEN-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -873,17 +873,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Venezuela</h6>
                 <select class="form-control" name="COL-VEN-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -899,17 +899,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Ecuador</h6>
                 <select class="form-control" name="ECU-QAT-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -918,17 +918,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Qatar</h6>
                 <select class="form-control" name="ECU-QAT-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -944,17 +944,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Perú</h6>
                 <select class="form-control" name="PER-BRA-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -963,17 +963,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Brasil</h6>
                 <select class="form-control" name="PER-BRA-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -989,17 +989,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Colombia</h6>
                 <select class="form-control" name="COL-PER-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1008,17 +1008,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Perú</h6>
                 <select class="form-control" name="COL-PER-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1034,17 +1034,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Venezuela</h6>
                 <select class="form-control" name="VEN-ECU-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1053,17 +1053,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Ecuador</h6>
                 <select class="form-control" name="VEN-ECU-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1079,17 +1079,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Brasil</h6>
                 <select class="form-control" name="BRA-QAT-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1098,17 +1098,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Qatar</h6>
                 <select class="form-control" name="BRA-QAT-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1124,17 +1124,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Brasil</h6>
                 <select class="form-control" name="BRA-COL-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1143,17 +1143,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Colombia</h6>
                 <select class="form-control" name="BRA-COL-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1169,17 +1169,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Ecuador</h6>
                 <select class="form-control" name="ECU-PER-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1188,17 +1188,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Perú</h6>
                 <select class="form-control" name="ECU-PER-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1214,17 +1214,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Qatar</h6>
                 <select class="form-control" name="QAT-VEN-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1233,17 +1233,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Venezuela</h6>
                 <select class="form-control" name="QAT-VEN-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1259,17 +1259,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Qatar</h6>
                 <select class="form-control" name="QAT-COL-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1278,17 +1278,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Colombia</h6>
                 <select class="form-control" name="QAT-COL-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1304,17 +1304,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Ecuador</h6>
                 <select class="form-control" name="ECU-BRA-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1323,17 +1323,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Brasil</h6>
                 <select class="form-control" name="ECU-BRA-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1349,17 +1349,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Venezuela</h6>
                 <select class="form-control" name="VEN-PER-1" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1368,17 +1368,17 @@ if(isset($_POST['submit'])){
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Perú</h6>
                 <select class="form-control" name="VEN-PER-2" style="width:60px">
-                    <option valiu=0>0</option>
-                    <option valiu=1>1</option>
-                    <option valiu=2>2</option>	
-                    <option valiu=3>3</option>	
-                    <option valiu=4>4</option>
-                    <option valiu=5>5</option>	
-                    <option valiu=6>6</option>
-                    <option valiu=7>7</option>	
-                    <option valiu=8>8</option>	
-                    <option valiu=9>9</option>
-                    <option valiu=10>10</option>				
+                    <option value=0>0</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>	
+                    <option value=3>3</option>	
+                    <option value=4>4</option>
+                    <option value=5>5</option>	
+                    <option value=6>6</option>
+                    <option value=7>7</option>	
+                    <option value=8>8</option>	
+                    <option value=9>9</option>
+                    <option value=10>10</option>				
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
@@ -1410,32 +1410,32 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <select class="form-control" name="equipo1" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="B1-A4-1" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1443,32 +1443,32 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <select class="form-control" name="equipo2" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="B1-A4-2" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1484,32 +1484,32 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <select class="form-control" name="equipo3" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="B2-A3-1" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1517,32 +1517,32 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <select class="form-control" name="equipo4" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="B2-A3-2" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1561,32 +1561,32 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <select class="form-control" name="equipo5" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="A1-B4-1" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1594,32 +1594,32 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <select class="form-control" name="equipo6" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="A1-B4-2" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1635,32 +1635,32 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <select class="form-control" name="equipo7" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="A2-B3-1" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1668,32 +1668,32 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <select class="form-control" name="equipo8" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="A2-B3-2" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1727,32 +1727,32 @@ if(isset($_POST['submit'])){
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <P class="text-center">C1</P>
                     <select class="form-control" name="C1" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="C1-C3-1" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1761,32 +1761,32 @@ if(isset($_POST['submit'])){
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <P class="text-center">C3</P>
                     <select class="form-control" name="C3" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="C1-C3-2" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1806,32 +1806,32 @@ if(isset($_POST['submit'])){
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <P class="text-center">C2</P>
                     <select class="form-control" name="C2" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="C2-C4-1" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1840,32 +1840,32 @@ if(isset($_POST['submit'])){
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <P class="text-center">C4</P>
                     <select class="form-control" name="C4" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="C2-C4-2" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1893,32 +1893,32 @@ if(isset($_POST['submit'])){
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <P class="text-center">Perdedor S1</P>
                     <select class="form-control" name="S3" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="tercer-1" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1927,32 +1927,32 @@ if(isset($_POST['submit'])){
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <P class="text-center">Perdedor S2</P>
                     <select class="form-control" name="S4" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="tercer-2" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1977,33 +1977,33 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <P class="text-center">Ganador S1</P>
-                    <select class="form-control" name="S3" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                    <select class="form-control" name="S1" style="width:120px">
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="final-1" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -2011,33 +2011,33 @@ if(isset($_POST['submit'])){
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-3">
                     <P class="text-center">Ganador S2</P>
-                    <select class="form-control" name="S4" style="width:120px">
-                        <option valiu=argentina>Equipo...</option>
-                        <option valiu=argentina>Argentina</option>
-                        <option valiu=australia>Australia</option>
-                        <option valiu=bolibia>Bolivia</option>
-                        <option valiu=brasil>Brasil</option>
-                        <option valiu=chile>Chile</option>	
-                        <option valiu=colombia>Colombia</option>
-                        <option valiu=ecuador>Ecuador</option>
-                        <option valiu=paraguay>Paraguay</option>	
-                        <option valiu=peru>Perú</option>
-                        <option valiu=qatar>Qatar</option>	
-                        <option valiu=uruguay>Uruguay</option>
-                        <option valiu=venezuela>Venezuela</option>				
+                    <select class="form-control" name="S2" style="width:120px">
+                        <option value=0>Equipo...</option>
+                        <option value=argentina>Argentina</option>
+                        <option value=australia>Australia</option>
+                        <option value=bolibia>Bolivia</option>
+                        <option value=brasil>Brasil</option>
+                        <option value=chile>Chile</option>	
+                        <option value=colombia>Colombia</option>
+                        <option value=ecuador>Ecuador</option>
+                        <option value=paraguay>Paraguay</option>	
+                        <option value=peru>Perú</option>
+                        <option value=qatar>Qatar</option>	
+                        <option value=uruguay>Uruguay</option>
+                        <option value=venezuela>Venezuela</option>				
                     </select>
                     <select class="form-control" name="final-2" style="width:120px">
-                        <option valiu=0>0</option>
-                        <option valiu=1>1</option>
-                        <option valiu=2>2</option>	
-                        <option valiu=3>3</option>	
-                        <option valiu=4>4</option>
-                        <option valiu=5>5</option>	
-                        <option valiu=6>6</option>
-                        <option valiu=7>7</option>	
-                        <option valiu=8>8</option>	
-                        <option valiu=9>9</option>
-                        <option valiu=10>10</option>				
+                        <option value=0>0</option>
+                        <option value=1>1</option>
+                        <option value=2>2</option>	
+                        <option value=3>3</option>	
+                        <option value=4>4</option>
+                        <option value=5>5</option>	
+                        <option value=6>6</option>
+                        <option value=7>7</option>	
+                        <option value=8>8</option>	
+                        <option value=9>9</option>
+                        <option value=10>10</option>				
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
