@@ -18,7 +18,7 @@
       $_SESSION['user_id'] = $results['id'];
       header("Location: home_login.php");
     } else {
-      $message = 'Lo sentimos, su usuario y contraseña no coincide!';
+      $message = 'Lo sentimos, su usuario y contraseña no coincide';
     }
   }
 
@@ -43,7 +43,7 @@
 	<header class="container">
 		<div class="container">
            <nav class="menuPrincipal navbar fixed-top navbar-expand-md">
-                <a href="../index.php" class="tituloPrincipal navbar-brand mt-1"><img src="../img/logo_2.png" alt="Logo" class="logo"></a>
+                <a href="home_login.php" class="tituloPrincipal navbar-brand mt-1"><img src="../img/logo_2.png" alt="Logo" class="logo"></a>
                 <div id="menu" class="collapse navbar-collapse">
                     <ul class="navbar-nav mr-auto">
 
@@ -61,7 +61,7 @@
 				<h1 class="titulo_1 display-3 text-uppercase font-weight-bold text-right mt-5">Inicia Sesión</h1>
 			</div>
 			<div class="col-sm-6">
-				<img src="../img/kisspng-argentina-national-football-team-fc-barcelona-foot-lionel-messi-5ac0332772f7c4.6683720815225454474709.png" alt="messi" class="messi">
+				<img src="../img/messi.png" alt="messi" class="messi">
 			</div>
 			<div class="col-sm-6 text-center">
 				<p class="p1 text-description">Ingresa tu usuario y contraseña</p>
