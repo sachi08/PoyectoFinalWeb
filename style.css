@@ -1,6 +1,6 @@
 .menuPrincipal{
 	height: 90px;
-	background:  #2e4053;
+	background: #2e4053;
 }
 
 body, html{
@@ -42,11 +42,34 @@ a .fab{
 }
 
 .home:hover{
-	color: #f1c40f;
-	font-size: 20px;
+	color: yellow !important;
 }
 
 .home{
-	color:  #3498db;
-	font-size: 18px;
+	color:  #3498db !important;
+}
+
+.carousel{
+	margin-top: 100px;
+}
+
+.fotosp{
+	display: block;
+	margin: auto;
+	width: 600px;
+	height: 400px;
+}
+
+#carrousel1{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.cerrar:hover{
+	color: yellow !important;
+}
+
+.cerrar{
+	color:  #3498db !important;
+	margin-left: 100px;
 }

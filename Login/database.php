@@ -10,7 +10,7 @@ function conexionSQL(){
 	$server = 'localhost';
 	$username = 'root';
 	$password = '';
-	$database = 'Proyecto_Web';
+	$database = 'proyecto_web';
 
 	$link = new mysqli($server,$username,$password,$database);
 	if($link->connect_error) {
