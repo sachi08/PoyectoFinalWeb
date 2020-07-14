@@ -70,7 +70,7 @@
       				<p> <?= $message ?></p>
     			<?php endif; ?>
 
-				<form action="login.php" method="POST">
+				<form action="home_login.php" method="POST">
 					 
 						<!-- if(isset($_GET['error']) && $_GET['error']==true){
 						print("<h4>Error: Nombre de usuario o contraseña invalidos</h4>");

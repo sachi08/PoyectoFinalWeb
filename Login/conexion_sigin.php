@@ -1,6 +1,6 @@
 <?php  
 
-$conexion = mysqli_connect("localhost", "root", "", "Proyecto_Web");
+$conexion = mysqli_connect("localhost", "root", "", "proyecto_web");
 if(!$conexion){
 	echo "Error al conectar a la base de datos";
 	print("<br>");
