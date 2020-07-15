@@ -2050,7 +2050,8 @@ if(isset($_POST['submit'])){
 
 <br>
 <br>
-<p>id: <input type="text" name="id"></p>
+
+
 <input  type="submit" name="submit" value="enviar" style="width:120px">
 <br>
 </div><!-- cierre container principal -->

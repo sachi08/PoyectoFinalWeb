@@ -22,9 +22,17 @@
                         <li class="nav-item dropdown active">
                             <a href="home_login.php" class="home nav-link btn">Home</a>
                         </li>
-                        <li class="nav-item dropdown active">
-                            <a href="login.php" class="cerrar nav-link btn">Cerrar sesión</a>
-                        </li>
+                        <?php
+                            require_once "Controllers_Login\controller_login.php";
+                            if(isset($_POST['user'])){
+                                $mvc = new MvcController();
+                                $mvc -> NavLogout();
+                            }
+                            else{
+                                $mvc = new MvcController();
+                                $mvc -> NavLogin();
+                            }
+                        ?>
                     </ul>
                 </div>
             </nav>

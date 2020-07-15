@@ -10,7 +10,4 @@ else{
     $mvc = new MvcController();
     $mvc -> SinAcceso();
 }
-
-
-
 ?>
