@@ -24,7 +24,7 @@
                         </li>
                         <?php
                             session_start();
-                            require_once "Controllers_Login\controller_login.php";
+                            require_once "./Controllers_Login/controller_login.php";
                             if(isset($_SESSION['user_id'])){
                                 $mvc = new MvcController();
                                 $mvc -> NavLogout();
