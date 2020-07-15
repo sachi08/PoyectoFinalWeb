@@ -23,8 +23,9 @@
                             <a href="home_login.php" class="home nav-link btn">Home</a>
                         </li>
                         <?php
+                            session_start();
                             require_once "Controllers_Login\controller_login.php";
-                            if(isset($_POST['user'])){
+                            if(isset($_SESSION['user_id'])){
                                 $mvc = new MvcController();
                                 $mvc -> NavLogout();
                             }

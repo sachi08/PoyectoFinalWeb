@@ -2,7 +2,7 @@
 
 require_once "Controllers\controller.php";
 
-if(isset($_POST['user'])){
+if(true){
     $mvc = new MvcController();
     $mvc -> juego();
 }

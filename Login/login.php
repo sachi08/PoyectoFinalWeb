@@ -21,7 +21,6 @@
       $message = 'Lo sentimos, su usuario y contraseña no coincide';
     }
   }
-
 ?>
 
 <!DOCTYPE html>
@@ -70,7 +69,7 @@
       				<p> <?= $message ?></p>
     			<?php endif; ?>
 
-				<form action="home_login.php" method="POST">
+				<form action="login.php" method="POST">
 					 
 						<!-- if(isset($_GET['error']) && $_GET['error']==true){
 						print("<h4>Error: Nombre de usuario o contraseña invalidos</h4>");
