@@ -23,7 +23,7 @@
                     <ul class="navbar-nav mr-auto">
 
                         <li class="dropdown active">
-                            <a href="../index.php" class="home">Home</a>
+                            <a href="home_login.php" class="home">Inicio</a>
                         </li>
                     </ul>
                 </div>
@@ -37,7 +37,7 @@
 				<h3><span class="oIniciaSesion">ó <a href="login.php">Inicia Sesión</a></span></h3>
 			</div>
 			<div class="col-sm-6">
-				<img src="../img/messi_login.jpg" alt="messi" class="messi">
+				<img src="../img/falcao.png" alt="falcao" class="falcao">
 			</div>
 
 			<div class="col-sm-6 text-center">

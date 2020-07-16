@@ -73,3 +73,15 @@ a .fab{
 	color:  #3498db !important;
 	margin-left: 100px;
 }
+
+.teams:hover{
+	color: yellow !important;
+}
+
+.teams{
+	color:  #3498db !important;
+}
+
+.menuDesplegable:hover{
+	background-color: #2e4053;
+}
