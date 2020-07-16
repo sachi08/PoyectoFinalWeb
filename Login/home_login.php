@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Css Style -->
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../Css/style.css">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
@@ -20,11 +20,33 @@
                     <ul class="navbar-nav mr-auto">
 
                         <li class="nav-item dropdown active">
-                            <a href="home_login.php" class="home nav-link btn">Home</a>
+                            <a href="home_login.php" class="home nav-link btn">Inicio</a>
                         </li>
+
+                        <li class="nav-item dropdown active">
+                            <a href="#" class="nav-link dropdown-toggle btn btn-outline-success" data-toggle="dropdown">Equipos</a>
+                            <div class="menuDesplegable dropdown-menu navbar-dark">
+                                <a href="argentina.php" class="dropdown-item">
+                                    Argentina
+                                </a>    
+                                <a href="australia.php" class="dropdown-item">
+                                    Australia
+                                </a>
+                                 <a href="bolivia.php" class="dropdown-item">
+                                    Bolivia
+                                </a>
+                                <!-- <a href="brasil.php" class="dropdown-item">
+                                    Brasil
+                                </a> 
+                                <a href="chile.php" class="dropdown-item">
+                                    Chile
+                                </a> -->
+                            </div>
+                        </li>
+
                         <?php
                             session_start();
-                            require_once "Controllers_Login\controller_login.php";
+                            require_once "./Controllers_Login/controller_login.php";
                             if(isset($_SESSION['user_id'])){
                                 $mvc = new MvcController();
                                 $mvc -> NavLogout();

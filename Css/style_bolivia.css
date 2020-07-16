@@ -1,0 +1,91 @@
+.menuPrincipal{
+	height: 90px;
+	background: #2e4053;
+}
+
+body, html{
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: #00c3ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffff1c, #00c3ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffff1c, #00c3ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	/*background: linear-gradient(rgba(95, 114, 190, .8), rgba(155, 35, 234, .7));*/
+	background-size: cover;
+	background-position: center; 
+	color: white;
+}
+
+.logo{
+	height: 80px;
+	margin-top: 10px;
+}
+
+.text-description{
+	letter-spacing: 2px;
+	font-family: sans-serif;
+}
+
+.form-control{
+	background: transparent !important;	
+	color: #fff !important;
+}
+
+a .fab{
+	color: #fff;
+	font-size: 30px;
+	margin: 0 10px;
+}
+
+.home:hover{
+	color: yellow !important;
+}
+
+.home{
+	color:  #3498db !important;
+}
+
+
+.cerrar:hover{
+	color: yellow !important;
+}
+
+.cerrar{
+	color:  #3498db !important;
+	margin-left: 100px;
+}
+
+.imagenPrincipal{
+	margin-top: 40px;	
+}
+
+.texto{
+	color: #2e4053;
+	font-size: 16px;
+	font-family: verdana;
+	margin-bottom: 30px;
+}
+
+.imagenEscudo{
+	width: 32%;
+	height: 32%;
+	margin-left: 350px;
+}
+
+.imagenBandera{
+	width: 90%;
+	height: 90%;
+
+}
+
+.tituloBandera{
+	color: #2e4053;
+	font: oblique bold 180% cursive;
+	text-align: left;
+	width: 30%;
+	height: 30%;
+}

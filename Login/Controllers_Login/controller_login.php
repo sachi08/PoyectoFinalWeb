@@ -2,10 +2,10 @@
 
 class MvcController{
     public function NavLogin(){
-        include "views_login/NavLogin.php";
+        include "./views_Login/NavLogin.php";
     }
     public function NavLogout(){
-        include "views_login/NavLogout.php";
+        include "./views_Login/NavLogout.php";
     }
 }
 ?>
