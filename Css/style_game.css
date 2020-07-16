@@ -1,6 +1,6 @@
 .menuPrincipal{
 	height: 90px;
-	background: #2e4053;
+	background:  #2e4053;
 }
 
 body, html{
@@ -8,6 +8,11 @@ body, html{
 	padding: 0;
 	margin: 0;
 }
+
+.logo{
+	height: 80px;
+	margin-top: 10px;
+}	
 
 body{
 	background: #00c3ff;  /* fallback for old browsers */
@@ -20,25 +25,9 @@ body{
 	color: white;
 }
 
-.logo{
-	height: 80px;
-	margin-top: 10px;
-}
-
-.text-description{
-	letter-spacing: 2px;
-	font-family: sans-serif;
-}
-
 .form-control{
 	background: transparent !important;	
 	color: #fff !important;
-}
-
-a .fab{
-	color: #fff;
-	font-size: 30px;
-	margin: 0 10px;
 }
 
 .home:hover{
@@ -47,47 +36,6 @@ a .fab{
 
 .home{
 	color:  #3498db !important;
-}
-
-
-.cerrar:hover{
-	color: yellow !important;
-}
-
-.cerrar{
-	color:  #3498db !important;
-	margin-left: 100px;
-}
-
-.imagenPrincipal{
-	margin-top: 40px;	
-}
-
-.texto{
-	color: #2e4053;
-	font-size: 16px;
-	font-family: verdana;
-	margin-bottom: 30px;
-}
-
-.imagenEscudo{
-	width: 32%;
-	height: 32%;
-	margin-left: 350px;
-}
-
-.imagenBandera{
-	width: 90%;
-	height: 90%;
-
-}
-
-.tituloBandera{
-	color: #2e4053;
-	font: oblique bold 180% cursive;
-	text-align: left;
-	width: 30%;
-	height: 30%;
 }
 
 .teams:hover{
@@ -101,4 +49,3 @@ a .fab{
 .menuDesplegable:hover{
 	background-color: #2e4053;
 }
-

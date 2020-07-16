@@ -1,6 +1,6 @@
 .menuPrincipal{
 	height: 90px;
-	background:  #2e4053;
+	background: #2e4053;
 }
 
 body, html{
@@ -41,57 +41,64 @@ a .fab{
 	margin: 0 10px;
 }
 
-.falcao{
-	height: 550px;
-	margin-left:-110px;
-	margin-top: -130px;
-}
-
-.wht, .fcbk{
-	color:#2e4053 !important;
-
-}
-
 .home:hover{
-	color: #f1c40f;
-	font-size: 20px;
+	color: yellow !important;
 }
 
 .home{
-	color:  #3498db;
-	font-size: 18px;
+	color:  #3498db !important;
 }
 
-.btn-enviar{
-	background: #2e4053;
-	color: white;
-	width: 30%;
-	padding: 10px;
-	font-size: 20px;
+
+.cerrar:hover{
+	color: yellow !important;
 }
 
-.btn-enviar:hover{
-	background: #2e4053 !important;
+.cerrar{
+	color:  #3498db !important;
+	margin-left: 100px;
 }
 
-.btn-enviar:active{
-	transform: scale(1.08)
+.imagenPrincipal{
+	margin-top: 40px;	
 }
 
-.form-control:hover{
-	background: #2e4053 !important;
-}
-
-.titulo_1{
-	color:  #f7dc6f;
-	margin-left: 610px;
-}
-
-.text-description{
+.texto{
 	color: #2e4053;
+	font-size: 16px;
+	font-family: verdana;
+	margin-bottom: 30px;
 }
 
-.oIniciaSesion{
-	margin-left: 750px;
-	color: #2e86c1;
+.imagenEscudo{
+	width: 32%;
+	height: 32%;
+	margin-left: 350px;
+}
+
+.imagenBandera{
+	width: 90%;
+	height: 90%;
+
+}
+
+.tituloBandera{
+	color: #2e4053;
+	font: oblique bold 180% cursive;
+	text-align: left;
+	width: 30%;
+	height: 30%;
+}
+
+
+.teams:hover{
+	color: yellow !important;
+}
+
+.teams{
+	color:  #3498db !important;
+}
+
+.menuDesplegable:hover{
+	background-color: #2e4053;
 }
