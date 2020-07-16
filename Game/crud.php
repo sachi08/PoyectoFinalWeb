@@ -1,10 +1,9 @@
 <?php
 
     !isset($_POST) ? die('Acceso denegado') : '';
-
     require 'conexion.class.php';
 
-    /* $db = new Conexion(); */
+    $db = new Conexion();
 
     if(isset($_POST['submit'])){
         $jugador_ID= $_POST['id']; 
@@ -53,7 +52,7 @@
         
         #de esta forma lee la base de datos los datos
         $query = "INSERT INTO `resultados`(`jugador_id`, `ARG-CHI`, `AUS-URU`, `PAR-BOL`, `ARG-URU`, `CHI-BOL`, `PAR-AUS`, `ARG-PAR`, `URU-CHI`, `AUS-BOL`, `CHI-PAR`, `AUS-ARG`, `BOL-URU`, `CHI-AUS`, `BOL-ARG`, `URU-PAR`, `COL-ECU`, `BRA-VEN`, `PER-QAT`, `COL-VEN`, `ECU-QAT`, `PER-BRA`, `COL-PER`, `VEN-ECU`, `BRA-QAT`, `BRA-COL`, `ECU-PER`, `QAT-VEN`, `QAT-COL`, `ECU-BRA`, `VEN-PER`, `B1-A4`, `B2-A3`, `A1-B4`, `A2-B3`, `SEMI1`, `SEMI2`, `TERCER`, `FINAL`, `cuartos`, `semis`, `terceros`, `finalistas`) VALUES ('$jugador_ID', '$ARG_CHI', '$AUS_URU', '$PAR_BOL', '$ARG_URU', '$CHI_BOL', '$PAR_AUS', '$ARG_PAR', '$URU_CHI', '$AUS_BOL', '$CHI_PAR', '$AUS_ARG', '$BOL_URU', '$CHI_AUS', '$BOL_ARG', '$URU_PAR', '$COL_ECU', '$BRA_VEN', '$PER_QAT', '$COL_VEN', '$ECU_QAT', '$PER_BRA', '$COL_PER', '$VEN_ECU', '$BRA_QAT', '$BRA_COL', '$ECU_PER', '$QAT_VEN', '$QAT_COL', '$ECU_BRA', '$VEN_PER', '$B1_A4', '$B2_A3', '$A1_B4', '$A2_B3', '$SEMI1', '$SEMI2', '$TERCER', '$FINAL', '$CUARTOS', '$SEMIS', '$TERCEROS', '$FINALISTAS')";
-        echo $query;
+        /* echo $query; */
         /* echo '<br><br><br>'; */    
         $db -> query($query); #funcion que guarda en la base de datos
     }
@@ -62,9 +61,44 @@
 <?php
 require('../FPDF/fpdf.php');
 
-$pdf = new FPDF();
+class PDF extends FPDF
+{
+// Cabecera de página
+function Header()
+{
+    // Logo
+    $this->Image('../img/logo.png',8,8,25);
+    // Arial bold 15
+    $this->SetFont('Arial','B',15);
+    // Movernos a la derecha
+    $this->Cell(65);
+    // Título
+    $this->Cell(60,10,'Tus Resultados',1,0,'C');
+    $this->SetDrawColor(255,255,28);
+    $this->SetFillColor(0,195,255);
+    // Salto de línea
+    $this->Ln(25);
+}
+
+// Pie de página
+function Footer()
+{
+    // Posición: a 1,5 cm del final
+    $this->SetY(-15);
+    // Arial italic 8
+    $this->SetFont('Arial','I',8);
+    // Número de página
+    $this->Cell(0,10,'Page '.$this->PageNo().'/{nb}',0,0,'C');
+}
+}
+
+// Creación del objeto de la clase heredada
+$pdf = new PDF();
+$pdf->AliasNbPages();
 $pdf->AddPage();
-$pdf->SetFont('Arial','B',16);
-$pdf->Cell(40,10,'¡Hola, Mundo!');
+$pdf->SetFont('Times','',12);
+for($i=1;$i<=40;$i++)
+    $pdf->Cell(0,10,'Primer resultado '.$i,0,1);
 $pdf->Output();
+
 ?>

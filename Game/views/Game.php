@@ -22,7 +22,7 @@ if(isset($_POST['submit'])){
 <title>Polla</title>
 </head>
 <body>
-<form method="post" action="crud.php">
+<form method="post" action="../crud.php">
 <div class="container">
 <div class="row"> <!-- cabecera de la tabla - fila principal-->
     <!-- Grupo A -->
