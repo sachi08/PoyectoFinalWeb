@@ -22,7 +22,7 @@ if(isset($_POST['submit'])){
 <title>Polla</title>
 </head>
 <body>
-<form method="post" action="../crud.php">
+<form method="post" action="crud.php">
 <div class="container">
 <div class="row"> <!-- cabecera de la tabla - fila principal-->
     <!-- Grupo A -->
@@ -1413,7 +1413,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1446,7 +1446,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1487,7 +1487,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1520,7 +1520,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1564,7 +1564,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1597,7 +1597,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1638,7 +1638,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1671,7 +1671,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1730,7 +1730,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1764,7 +1764,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1809,7 +1809,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1843,7 +1843,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1896,7 +1896,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1930,7 +1930,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -1981,7 +1981,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -2015,7 +2015,7 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolibia>Bolivia</option>
+                        <option value=bolivia>Bolivia</option>
                         <option value=brasil>Brasil</option>
                         <option value=chile>Chile</option>	
                         <option value=colombia>Colombia</option>
@@ -2050,8 +2050,6 @@ if(isset($_POST['submit'])){
 
 <br>
 <br>
-
-<p>id: <input type="text" name="id"></p>
 <input  type="submit" name="submit" value="enviar" style="width:120px">
 <br>
 </div><!-- cierre container principal -->

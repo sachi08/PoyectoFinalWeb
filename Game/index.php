@@ -14,12 +14,12 @@
 	
 	<div class="container">
            <nav class="menuPrincipal navbar fixed-top navbar-expand-md">
-                <a href="home_login.php" class="tituloPrincipal navbar-brand mt-1"><img src="../img/logo_2.png" alt="Logo" class="logo"></a>
+                <a href="../Login/home_login.php" class="tituloPrincipal navbar-brand mt-1"><img src="../img/logo_2.png" alt="Logo" class="logo"></a>
                 <div id="menu" class="collapse navbar-collapse">
                     <ul class="navbar-nav mr-auto">
 
                         <li class="nav-item dropdown active">
-                            <a href="home_login.php" class="home nav-link btn">Inicio</a>
+                            <a href="../Login/home_login.php" class="home nav-link btn">Inicio</a>
                         </li>
 
                         <li class="nav-item dropdown active">
@@ -65,16 +65,16 @@
                         </li>
 
                         <?php
-                            /*session_start();
-                            require_once "./Controllers_Login/controller_login.php";
+                            session_start();
+                            require_once "Controllers/controller.php";
                             if(isset($_SESSION['user_id'])){
-                                $mvc = new MvcController();
-                                $mvc -> NavLogout();
+                                $mvc = new MvcController2();
+                                $mvc -> NavLogout_game();
                             }
                             else{
-                                $mvc = new MvcController();
-                                $mvc -> NavLogin();
-                            }*/
+                                $mvc = new MvcController2();
+                                $mvc -> NavLogin_game();
+                            }
                         ?>
                     </ul>
                 </div>
@@ -86,11 +86,11 @@
 require_once "Controllers/controller.php";
 
 if(true){
-    $mvc = new MvcController();
+    $mvc = new MvcController2();
     $mvc -> juego();
 }
 else{
-    $mvc = new MvcController();
+    $mvc = new MvcController2();
     $mvc -> SinAcceso();
 }
 ?>

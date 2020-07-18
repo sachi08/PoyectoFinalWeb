@@ -39,7 +39,7 @@ if(!$resultado){
 	echo '<script>
 			alert("Se ha registrado exitosamente");
 		 </script>';
-	header("Location: ../home_sigin.php");	 
+	header("Location: home_login.php");	 
 }
 //Cerrar Conexion
 mysqli_close($conexion);

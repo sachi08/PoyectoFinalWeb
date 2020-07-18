@@ -15,7 +15,8 @@
     $message = '';
     //$p = password_hash($_POST['clave'],PASSWORD_DEFAULT);
     if (count($results) > 0 && password_verify($_POST['clave'], $results['clave'])) {
-      $_SESSION['user_id'] = $results['id'];
+	  $_SESSION['user_id'] = $results['id'];
+	  $_SESSION['user'] = $_POST['user'];
       header("Location: home_login.php");
     } else {
       $message = 'Lo sentimos, su usuario y contraseña no coincide';

@@ -49,3 +49,7 @@ body{
 .menuDesplegable:hover{
 	background-color: #2e4053;
 }
+
+select option {
+	color:black;
+    }
