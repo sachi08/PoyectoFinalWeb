@@ -31,22 +31,22 @@ if(isset($_POST['submit'])){
         <!-- Primer partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_argentina.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_argentina.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Argentina</h6>
                 <select class="form-control" name="ARG-CHI-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -57,41 +57,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="ARG-CHI-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_chile.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_chile.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido -->
         <br>
         <!-- segundo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_australia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_australia.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Australia</h6>
                 <select class="form-control" name="AUS-URU-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -102,41 +102,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="AUS-URU-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_uruguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_uruguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre segundo partido -->
         <br>
         <!-- tercer partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_paraguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_paraguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Paraguay</h6>
                 <select class="form-control" name="PAR-BOL-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -147,41 +147,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="PAR-BOL-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_bolivia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_bolivia.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre tercer partido -->
         <br>
         <!-- cuarto partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_argentina.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_argentina.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Argentina</h6>
                 <select class="form-control" name="ARG-URU-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -192,41 +192,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="ARG-URU-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_uruguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_uruguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre cuarto partido -->
         <br>
         <!-- qinto partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_chile.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_chile.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Chile</h6>
                 <select class="form-control" name="CHI-BOL-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -237,41 +237,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="CHI-BOL-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_bolivia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_bolivia.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre quinto partido -->
         <br>
         <!-- sexto partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_paraguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_paraguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Paraguay</h6>
                 <select class="form-control" name="PAR-AUS-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -282,41 +282,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="PAR-AUS-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_australia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_australia.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre sexto partido -->
         <br>
         <!-- septimo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_argentina.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_argentina.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Argentina</h6>
                 <select class="form-control" name="ARG-PAR-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -327,41 +327,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="ARG-PAR-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-            <img src="../img/escudo_paraguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+            <img src="../img/escudo_paraguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre septimo partido -->
         <br>
         <!-- octavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_uruguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_uruguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Uruguay</h6>
                 <select class="form-control" name="URU-CHI-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -372,41 +372,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="URU-CHI-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_chile.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_chile.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre octavo partido -->
         <br>
         <!-- noveno partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-            <img src="../img/escudo_australia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+            <img src="../img/escudo_australia.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Australia</h6>
                 <select class="form-control" name="AUS-BOL-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -417,41 +417,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="AUS-BOL-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_bolivia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_bolivia.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre noveno partido -->
         <br>
         <!-- decimo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_chile.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_chile.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Chile</h6>
                 <select class="form-control" name="CHI-PAR-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -462,41 +462,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="CHI-PAR-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_paraguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_paraguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre decimo partido -->
         <br>
         <!-- onceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_australia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_australia.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Australia</h6>
                 <select class="form-control" name="AUS-ARG-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -507,41 +507,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="AUS-ARG-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_argentina.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_argentina.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre onceavo partido -->
         <br>
         <!-- doceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_bolivia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_bolivia.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Bolivia</h6>
                 <select class="form-control" name="BOL-URU-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -552,41 +552,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="BOL-URU-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_uruguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_uruguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre doceavo partido -->
         <br>
         <!-- treceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_chile.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_chile.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Chile</h6>
                 <select class="form-control" name="CHI-AUS-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -597,41 +597,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="CHI-AUS-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_australia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_australia.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre treceavo partido -->
         <br>
         <!-- catorceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_bolivia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_bolivia.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Bolivia</h6>
                 <select class="form-control" name="BOL-ARG-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -642,41 +642,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="BOL-ARG-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_argentina.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_argentina.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre catorceavo partido -->
         <br>
         <!-- quinceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_uruguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_uruguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Uruguay</h6>
                 <select class="form-control" name="URU-PAR-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -687,19 +687,19 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="URU-PAR-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_paraguay.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_paraguay.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre quiceavo partido -->
     </div> <!-- cierre columna grupo A -->
@@ -714,22 +714,22 @@ if(isset($_POST['submit'])){
         <!-- primer partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_colombia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_colombia.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>COLOMBIA</h6>
                 <select class="form-control" name="COL-ECU-1" style="width:60px">
                     <option value="0">0</option>
                     <option value="1">1</option>
-                    <option value="2">2</option>	
-                    <option value="3">3</option>	
+                    <option value="2">2</option>    
+                    <option value="3">3</option>    
                     <option value="4">4</option>
-                    <option value="5">5</option>	
+                    <option value="5">5</option>    
                     <option value="6">6</option>
-                    <option value="7">7</option>	
-                    <option value="8">8</option>	
+                    <option value="7">7</option>    
+                    <option value="8">8</option>    
                     <option value="9">9</option>
-                    <option value="10">10</option>				
+                    <option value="10">10</option>              
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -740,41 +740,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="COL-ECU-2" style="width:60px">
                     <option value="0">0</option>
                     <option value="1">1</option>
-                    <option value="2">2</option>	
-                    <option value="3">3</option>	
+                    <option value="2">2</option>    
+                    <option value="3">3</option>    
                     <option value="4">4</option>
-                    <option value="5">5</option>	
+                    <option value="5">5</option>    
                     <option value="6">6</option>
-                    <option value="7">7</option>	
-                    <option value="8">8</option>	
+                    <option value="7">7</option>    
+                    <option value="8">8</option>    
                     <option value="9">9</option>
-                    <option value="10">10</option>				
+                    <option value="10">10</option>              
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_ecuador.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_ecuador.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div> <!-- cierre fila partido --> <!-- cierre primer partido -->
         <br>
         <!-- segundo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_brasil.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_brasil.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>BRASIL</h6>
                 <select class="form-control" name="BRA-VEN-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -785,41 +785,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="BRA-VEN-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_venezuela.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_venezuela.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre segundo partido -->
         <br>
         <!-- tercer partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_peru.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_peru.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Perú</h6>
                 <select class="form-control" name="PER-QAT-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -830,41 +830,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="PER-QAT-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_qatar.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_qatar.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre tercer partido -->
         <br>
         <!-- cuarto partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_colombia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_colombia.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Colombia</h6>
                 <select class="form-control" name="COL-VEN-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -875,41 +875,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="COL-VEN-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_venezuela.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_venezuela.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre cuarto partido -->
         <br>
         <!-- qinto partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_ecuador.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_ecuador.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Ecuador</h6>
                 <select class="form-control" name="ECU-QAT-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -920,41 +920,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="ECU-QAT-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_qatar.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_qatar.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre quinto partido -->
         <br>
         <!-- sexto partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_peru.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_peru.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Perú</h6>
                 <select class="form-control" name="PER-BRA-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -965,41 +965,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="PER-BRA-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_brasil.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_brasil.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre sexto partido -->
         <br>
         <!-- septimo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_colombia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_colombia.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Colombia</h6>
                 <select class="form-control" name="COL-PER-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1010,41 +1010,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="COL-PER-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_peru.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_peru.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre septimo partido -->
         <br>
         <!-- octavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_venezuela.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_venezuela.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Venezuela</h6>
                 <select class="form-control" name="VEN-ECU-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1055,41 +1055,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="VEN-ECU-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-            <img src="../img/escudo_ecuador.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+            <img src="../img/escudo_ecuador.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre octavo partido -->
         <br>
         <!-- noveno partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_brasil.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_brasil.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Brasil</h6>
                 <select class="form-control" name="BRA-QAT-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1100,41 +1100,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="BRA-QAT-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_qatar.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_qatar.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre noveno partido -->
         <br>
         <!-- decimo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_brasil.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_brasil.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Brasil</h6>
                 <select class="form-control" name="BRA-COL-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1145,41 +1145,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="BRA-COL-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_colombia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_colombia.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre decimo partido -->
         <br>
         <!-- onceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_ecuador.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_ecuador.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Ecuador</h6>
                 <select class="form-control" name="ECU-PER-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1190,41 +1190,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="ECU-PER-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_peru.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_peru.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre onceavo partido -->
         <br>
         <!-- doceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_qatar.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_qatar.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Qatar</h6>
                 <select class="form-control" name="QAT-VEN-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1235,41 +1235,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="QAT-VEN-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_venezuela.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_venezuela.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre doceavo partido -->
         <br>
         <!-- treceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_qatar.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_qatar.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Qatar</h6>
                 <select class="form-control" name="QAT-COL-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1280,41 +1280,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="QAT-COL-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_colombia.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_colombia.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre treceavo partido -->
         <br>
         <!-- catorceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_ecuador.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_ecuador.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Ecuador</h6>
                 <select class="form-control" name="ECU-BRA-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1325,41 +1325,41 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="ECU-BRA-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_brasil.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_brasil.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre catorceavo partido -->
         <br>
         <!-- quinceavo partido -->
         <div class="row"> <!-- fila para el primer partido -->
             <div id="" class="img-wrap col-xs-12 col-sm-3 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_venezuela.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_venezuela.png" class=" img-sm" width=60px heigh=60px >
             </div>
             <div class="col-xs-12 col-sm-2 col-md-2">
                 <h6>Venezuela</h6>
                 <select class="form-control" name="VEN-PER-1" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div class="col-xs-12 col-sm-2 col-md-1">
@@ -1370,19 +1370,19 @@ if(isset($_POST['submit'])){
                 <select class="form-control" name="VEN-PER-2" style="width:60px">
                     <option value=0>0</option>
                     <option value=1>1</option>
-                    <option value=2>2</option>	
-                    <option value=3>3</option>	
+                    <option value=2>2</option>  
+                    <option value=3>3</option>  
                     <option value=4>4</option>
-                    <option value=5>5</option>	
+                    <option value=5>5</option>  
                     <option value=6>6</option>
-                    <option value=7>7</option>	
-                    <option value=8>8</option>	
+                    <option value=7>7</option>  
+                    <option value=8>8</option>  
                     <option value=9>9</option>
-                    <option value=10>10</option>				
+                    <option value=10>10</option>                
                 </select>
             </div>
             <div id="" class="img-wrap col-xs-12 col-sm-43 col-md-3"> <!-- tamaño de la columna para imagen-->
-                <img src="../img/escudo_peru.png" class="img-thumbnail img-sm" width=60px heigh=60px >
+                <img src="../img/escudo_peru.png" class=" img-sm" width=60px heigh=60px >
             </div>
         </div><!-- cierre fila partido --> <!-- cierre quiceavo partido -->
     </div> <!-- cierre grupo B -->
@@ -1413,29 +1413,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="B1-A4-1" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1446,29 +1446,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="B1-A4-2" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1487,29 +1487,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="B2-A3-1" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1520,29 +1520,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="B2-A3-2" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1564,29 +1564,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="A1-B4-1" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1597,29 +1597,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="A1-B4-2" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1638,29 +1638,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="A2-B3-1" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1671,29 +1671,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="A2-B3-2" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1730,29 +1730,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="C1-C3-1" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1764,29 +1764,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="C1-C3-2" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1809,29 +1809,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="C2-C4-1" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1843,29 +1843,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="C2-C4-2" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1896,29 +1896,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="tercer-1" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -1930,29 +1930,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="tercer-2" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -1981,29 +1981,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="final-1" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div class="col-xs-12 col-sm-1 col-md-1">
@@ -2015,29 +2015,29 @@ if(isset($_POST['submit'])){
                         <option value=0>Equipo...</option>
                         <option value=argentina>Argentina</option>
                         <option value=australia>Australia</option>
-                        <option value=bolivia>Bolivia</option>
+                        <option value=bolibia>Bolivia</option>
                         <option value=brasil>Brasil</option>
-                        <option value=chile>Chile</option>	
+                        <option value=chile>Chile</option>  
                         <option value=colombia>Colombia</option>
                         <option value=ecuador>Ecuador</option>
-                        <option value=paraguay>Paraguay</option>	
+                        <option value=paraguay>Paraguay</option>    
                         <option value=peru>Perú</option>
-                        <option value=qatar>Qatar</option>	
+                        <option value=qatar>Qatar</option>  
                         <option value=uruguay>Uruguay</option>
-                        <option value=venezuela>Venezuela</option>				
+                        <option value=venezuela>Venezuela</option>              
                     </select>
                     <select class="form-control" name="final-2" style="width:120px">
                         <option value=0>0</option>
                         <option value=1>1</option>
-                        <option value=2>2</option>	
-                        <option value=3>3</option>	
+                        <option value=2>2</option>  
+                        <option value=3>3</option>  
                         <option value=4>4</option>
-                        <option value=5>5</option>	
+                        <option value=5>5</option>  
                         <option value=6>6</option>
-                        <option value=7>7</option>	
-                        <option value=8>8</option>	
+                        <option value=7>7</option>  
+                        <option value=8>8</option>  
                         <option value=9>9</option>
-                        <option value=10>10</option>				
+                        <option value=10>10</option>                
                     </select>
                 </div>
                 <div id="" class="img-wrap col-xs-12 col-sm-2 col-md-2"> <!-- tamaño de la columna para imagen-->
@@ -2050,7 +2050,8 @@ if(isset($_POST['submit'])){
 
 <br>
 <br>
-<input  type="submit" name="submit" value="enviar" style="width:120px">
+
+<input  class="game_boton" type="submit" name="submit" value="enviar" style="width:120px">
 <br>
 </div><!-- cierre container principal -->
 </form><!-- cierre del formulario -->

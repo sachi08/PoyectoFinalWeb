@@ -48,7 +48,7 @@
                     <ul class="navbar-nav mr-auto">
 
                         <li class="dropdown active">
-                            <a href="home_login.php" class="home btn btn-outline">Home</a>
+                            <a href="home_login.php" class="home btn btn-outline">Inicio</a>
                         </li>
                     </ul>
                 </div>

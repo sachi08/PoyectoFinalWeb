@@ -1,6 +1,6 @@
 .menuPrincipal{
 	height: 90px;
-	background: #2e4053;
+	background:  #2e4053;
 }
 
 body, html{
@@ -41,7 +41,7 @@ a .fab{
 	margin: 0 10px;
 }
 
-.messi{
+.cavani{
 	height: 550px;
 	margin-left:-110px;
 	margin-top: -130px;
@@ -62,32 +62,36 @@ a .fab{
 	font-size: 18px;
 }
 
-.ingreso_datos:hover{
-	background: #2e4053 !important;
-}
-
-.titulo_1{
-	color:  #f7dc6f;
-}
-
-.p1{
-	 color: #2e4053;
-
-}
-
-.btn-ingresar{
+.btn-enviar{
 	background: #2e4053;
 	color: white;
-	width: 30%;
+	width: 35%;
 	padding: 10px;
 	font-size: 20px;
 }
 
-.btn-ingresar:hover{
+.btn-enviar:hover{
 	background: #2e4053 !important;
 }
 
-.btn-ingresar:active{
+.btn-enviar:active{
 	transform: scale(1.08)
 }
 
+.form-control:hover{
+	background: #2e4053 !important;
+}
+
+.titulo_1{
+	color:  #2e4053;
+	margin-left: 610px;
+}
+
+.text-description{
+	color: #2e4053;
+}
+
+.oIniciaSesion{
+	margin-left: 750px;
+	color: #2e86c1;
+}

@@ -1,6 +1,6 @@
 .menuPrincipal{
 	height: 90px;
-	background:  #2e4053;
+	background: #2e4053;
 }
 
 body, html{
@@ -8,11 +8,6 @@ body, html{
 	padding: 0;
 	margin: 0;
 }
-
-.logo{
-	height: 80px;
-	margin-top: 10px;
-}	
 
 body{
 	background: #00c3ff;  /* fallback for old browsers */
@@ -25,9 +20,25 @@ body{
 	color: white;
 }
 
+.logo{
+	height: 80px;
+	margin-top: 10px;
+}
+
+.text-description{
+	letter-spacing: 2px;
+	font-family: sans-serif;
+}
+
 .form-control{
 	background: transparent !important;	
 	color: #fff !important;
+}
+
+a .fab{
+	color: #fff;
+	font-size: 30px;
+	margin: 0 10px;
 }
 
 .home:hover{
@@ -36,6 +47,32 @@ body{
 
 .home{
 	color:  #3498db !important;
+	margin-left: 30px;
+}
+
+.carousel{
+	margin-top: 100px;
+}
+
+.fotosp{
+	display: block;
+	margin: auto;
+	width: 600px;
+	height: 400px;
+}
+
+#carrousel1{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.cerrar:hover{
+	color: yellow !important;
+}
+
+.cerrar{
+	color:  #3498db !important;
+	margin-left: 20px;
 }
 
 .teams:hover{
@@ -44,12 +81,51 @@ body{
 
 .teams{
 	color:  #3498db !important;
+	margin-left: 30px;
 }
 
 .menuDesplegable:hover{
 	background-color: #2e4053;
 }
 
-select option {
-	color:black;
-    }
+.foto_usuario{
+	width: 35px;
+	height: 35px;
+	margin-top: 6px;
+	margin-left: 7px;
+}
+
+.juega:hover{
+	color: yellow !important;
+}
+
+.juega{
+	color:  #3498db !important;
+	margin-left: 30px;
+}
+
+.nombre_usuario:hover{
+	color: yellow !important;
+}
+
+.nombre_usuario{
+	color:  #3498db !important;
+	margin-left: 700px;	
+}
+
+.game_boton{
+	background: #2e4053;
+	color: white;
+	width: 30%;
+	padding: 8px;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.game_boton:hover{
+	background: #2e4053 !important;
+}
+
+.game_boton:active{
+	transform: scale(1.08)
+}
