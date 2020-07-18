@@ -63,17 +63,74 @@
 				</form>
 
 				<ul class="list-unstyled list-inline my-4">	<!-- Quita el esitlo que tiene por defecto la etiqueta ul -->
-					<li class="list-inline-item"> <a href="https://www.facebook.com/Pollas3P/"> <!-- El href se puede llenar con la página que se desee -->
-							<i class="fcbk fab fa-facebook-f"></i>	<!-- Etiqueta i de icon -->
+					<li class="list-inline-item"> <a href="https://www.facebook.com/Pollas3P/" target="blank"> <!-- El href se puede llenar con la página que se desee -->
+							<i class="auxiliar fcbk fab fa-facebook-f"></i>	<!-- Etiqueta i de icon -->
 						</a> 
 					</li>
-					<li class="list-inline-item"> <a href="https://api.whatsapp.com/send?phone=3148136859&text=%C2%BFEn%20que%20puedo%20ayudarte"> <!-- El href se puede llenar con la página que se desee -->
-							<i class="wht fab fa-whatsapp"></i>	<!-- Etiqueta i de icon -->
+					<li class="list-inline-item"> <a href="https://api.whatsapp.com/send?phone=3148136859&text=%C2%BFEn%20que%20puedo%20ayudarte" target="blank"> <!-- El href se puede llenar con la página que se desee -->
+							<i class="auxiliar wht fab fa-whatsapp"></i>	<!-- Etiqueta i de icon -->
 						</a> 
 					</li>
 				</ul>
 			</div>
 		</div>
 	</header><!-- /header -->
+	<footer>
+            <div id="footer">
+
+                <div class="row align-items-center my-5">
+                    <div class="col-lg-4">
+                        <p class="torneos"><b>Torneos masculinos</b></p>
+                        <p><a href="http://www.conmebol.com/es/copa-libertadores-2020" target="blank">CONMEBOL Libertadores</a></p>
+                        <p><a href="http://www.conmebol.com/es/copa-sudamericana-2020" target="blank">CONMEBOL Sudamericana</a></p><br>
+
+                        <p class="torneos"><b>Torneos femeninos</b></p>
+                        <p><a href="http://www.conmebol.com/es/libertadores-femenina-brasil-2018" target="blank">Copa Libertadores Femenina</a></p>
+                        <p><a href="http://www.conmebol.com/es/copa-america-femenina-chile2018" target="blank">Copa América Femenina</a></p>
+                    </div>
+                    <div class="col-lg-4">
+                        <p class="torneos"><b>Desarrollo</b></p>
+                        <p><a href="http://www.conmebol.com/es/desarrollo/estrategia" target="blank">Dirección</a></p>
+                        <p><a href="http://www.conmebol.com/es/desarrollo/ligas" target="blank">Ligas</a></p>
+                        <p><a href="http://www.conmebol.com/es/desarrollo/publicaciones" target="blank">Publicaciones</a></p>
+                        <p><a href="http://www.conmebol.com/es/desarrollo/noticias2" target="blank">Noticias</a></p>
+                    </div>
+                    <div class="col-lg-4">
+                        <p class="torneos"><b>La Conmebol</b></p>
+                        <p><a href="http://www.conmebol.com/es/laconmebol/asociaciones" target="blank">Asociaciones</a></p>
+                        <p><a href="http://www.conmebol.com/es/laconmebol/el-congreso" target="blank">El congreso</a></p>
+                        <p><a href="http://www.conmebol.com/es/laconmebol/el-comite-ejecutivo" target="blank">El Consejo</a></p>
+                        <p><a href="http://www.conmebol.com/es/laconmebol/comisiones" target="blank">Comisiones</a></p>
+                        
+                    </div>
+                </div>
+
+                <div class="row align-items-center my-5">
+                    <div class="col-lg-6">
+                        <p style="color: white">Copyright © 2020. Todos los derechos reservados.
+                                Santiago Garcia Vanegas y Sergio Uribe Adarve - Medellín - Colombia
+                        </p>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <ul class="list-unstyled list-inline my-4"> <!-- Quita el esitlo que tiene por defecto la etiqueta ul -->
+                            <li class="list-inline-item"> <a href="https://www.facebook.com/Pollas3P/" target="blank"> <!-- El href se puede llenar con la página que se desee -->
+                                <i class="fcbk fab fa-facebook-f"></i>  <!-- Etiqueta i de icon -->
+                            </a> 
+                            </li>
+                            <li class="list-inline-item"> <a href="https://api.whatsapp.com/send?phone=3148136859&text=%C2%BFEn%20que%20puedo%20ayudarte" target="blank"> <!-- El href se puede llenar con la página que se desee -->
+                                <i class="wht fab fa-whatsapp"></i> <!-- Etiqueta i de icon -->
+                            </a> 
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+               <!--  <p>Sergio Uribe Adarve</p> 
+                <p>Estudiante de Pregrado de Ingeniería Electrónica, Departamento de Ingeniería Electrónica y de Telecomunicaciones, Universidad de Antioquia.</p> 
+                <p>Recepción de Correspondencia: Calle 22 # 71A-21, Medellín Colombia.</p>
+                <p>E-mail: sergio.uribe1@udea.edu.co</p>   -->     
+            </div>
+        </footer>
 </body>
 </html>
